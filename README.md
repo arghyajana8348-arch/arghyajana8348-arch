@@ -64,16 +64,6 @@ contact: arghyajana8348@gmail.com
 <!-- Trophies Section -->
 <div align="center">
 
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=arghyajana8348-arch)](https://github.com/arghyajana8348-arch/github-profile-trophy)
-</div>
-
----
-
-<!-- Top Contributed Repo -->
-<div align="center">
-
 ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=arghyajana8348-arch&limit=5&theme=dark&combine_all_yearly_contributions=true)
